@@ -8,6 +8,10 @@ Verve is a role-based club management system designed for student organizations.
 
 ## Features
 
+## Live Demo
+
+**Deployed Application:** https://verve-frontend-three.vercel.app
+
 ### Authentication & Role-Based Access
 
 - Secure login using JWT authentication.

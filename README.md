@@ -478,7 +478,3 @@ The following screenshots demonstrate the major features and role-specific inter
 ## License
 
 This project was developed as a student club management system project.
-
-## License
-
-This project was developed as a student club management system project.
